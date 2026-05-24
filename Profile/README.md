@@ -1,8 +1,8 @@
-# Snowball
+# ImagineBowl 🍚
 
 FreeFarmers is an open-source software organization building modern applications and developer-focused tools.
 
-## 🚀 Projects
+## Projects
 
 - **Sonance** – https://github.com/FreeFarmers/Sonance  
 - **AI Page Summarizer** – https://github.com/FreeFarmers/AI-Page-Summarizer  
@@ -15,5 +15,5 @@ FreeFarmers is an open-source software organization building modern applications
 - Productivity software
 - Lightweight open-source apps
 
-## 🤝 Contribute
+## Contribute
 Feel free to explore repositories and contribute!
