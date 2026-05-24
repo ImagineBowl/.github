@@ -1,4 +1,4 @@
-# FreeFarmers
+# Snowball
 
 FreeFarmers is an open-source software organization building modern applications and developer-focused tools.
 
