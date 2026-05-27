@@ -4,6 +4,7 @@ FreeFarmers is an open-source software organization building modern applications
 
 ## Projects
 
+- **EQfi** - https://github.com/ImagineBowl/EQfi
 - **Sonance** – https://github.com/FreeFarmers/Sonance  
 - **AI Page Summarizer** – https://github.com/FreeFarmers/AI-Page-Summarizer  
 - **VibeRite** – https://github.com/FreeFarmers/VibeRite  
