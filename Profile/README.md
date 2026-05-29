@@ -1,6 +1,6 @@
 # ImagineBowl 🍚
 
-FreeFarmers is an open-source software organization building modern applications and developer-focused tools.
+ImagineBowl is an open-source software organization building modern applications and developer-focused tools.
 
 ## Projects
 
