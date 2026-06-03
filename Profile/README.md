@@ -4,7 +4,7 @@ ImagineBowl is an open-source software organization building modern applications
 
 ## Projects
 
-- **QuranDaily** - https://github.com/ImagineBowl/QuranDaily - QuranDaily is a native iOS app built with SwiftUI for reading and listening to the Quran daily.
+- **QuranDaily** - https://github.com/ImagineBowl/QuranDaily and https://github.com/ImagineBowl/QuranDaily-android- QuranDaily is a native iOS/android app built with SwiftUI and kotlin for reading and listening to the Quran daily.
 - **Raven** - https://github.com/ImagineBowl/Raven - A local-first audiobook player for iOS.
 - **EQfi** - https://github.com/ImagineBowl/EQfi - AI-powered system-wide equalizer for macOS
 - **Sonance** – https://github.com/ImagineBowl/Sonance - A native iOS instrument tuner built with SwiftUI
